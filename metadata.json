@@ -1,0 +1,5 @@
+{
+  "name": "Vizu AI Image Generator",
+  "description": "A powerful and intuitive tool to generate multiple images from a list of text prompts using the Gemini API. Perfect for artists, designers, and creators looking to streamline their creative workflow.",
+  "requestFramePermissions": []
+}
